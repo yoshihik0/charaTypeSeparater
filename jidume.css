@@ -1,0 +1,41 @@
+.number,
+.alpha {
+    font-size: 1.05em;
+}
+
+.hiragana {
+    margin-left: -0.05em;
+    margin-right: 0.05em;
+    letter-spacing: -0.1em;
+    /* color: green; */
+}
+
+.katakana {
+    margin-left: -0.05em;
+    margin-right: 0.05em;
+    letter-spacing: -0.1em;
+    /* color: blue; */
+}
+
+.kanji {
+    /* color: red; */
+}
+
+.kigo {
+    /* color: gray; */
+}
+
+.kigoL {
+    margin-left: -0.43em;
+}
+
+.kigoR {
+    letter-spacing: -0.43em;
+    /* color: green; */
+}
+
+.kigoC {
+    margin-left: -0.18em;
+    margin-right: -0.18em;
+    /* color: pink; */
+}
